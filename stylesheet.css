@@ -1,3 +1,10 @@
 .col-md-8 {
-	background-color: #d3d3d3;
+	background-color: #d3cfbd;
+}
+header h1 {
+	text-align: center;
+}
+header li {
+	display: inline;
+	padding-left: 15px;
 }
